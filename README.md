@@ -5,3 +5,11 @@ Hi! I'm Edmar Mateus, a young technology enthusiast, more specifically in progra
 I see myself in game development, web development, mobile development, and, still undecided, cybersecurity. Well, thank you for taking a minute to learn more about me :]
 
 - 🌱 I’m currently learning...
+
+PORTFÓLIO — EDMAR MATEUS
+
+Ficheiros:
+- index.html       Estrutura e conteúdo do site
+- style.css        Estilos e layout responsivo
+- script.js        Menu mobile e ano automático no rodapé
+- assets/          Fotografia de perfil
